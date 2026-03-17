@@ -151,3 +151,17 @@ Amazon| ₹93,499| Available| View Product
 
 - Inspired by real-world price comparison platforms
 - Built for learning web scraping and full-stack development
+
+
+these are the screenshots
+
+failed here
+<img width="1904" height="532" alt="Screenshot 2026-03-17 191921" src="https://github.com/user-attachments/assets/563ec679-34b5-4514-b18f-3ee1b9a79ea4" />
+
+<img width="1887" height="891" alt="Screenshot 2026-03-17 191936" src="https://github.com/user-attachments/assets/635a2e64-3356-4e65-8fb3-a8528ff7115b" />
+
+
+succesed here 
+<img width="1906" height="574" alt="Screenshot 2026-03-17 192006" src="https://github.com/user-attachments/assets/49595f58-0535-4c6a-b277-7a1bcb909da2" />
+
+<img width="1892" height="879" alt="Screenshot 2026-03-17 192033" src="https://github.com/user-attachments/assets/547aebfa-edef-473c-8951-829cb1bd6942" />
